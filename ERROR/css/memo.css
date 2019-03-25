@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+.le{
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+    font-size: 40PX;
+    color: white; 
+    width: 100%;
+
+}
+.ho{
+    color: red;
+    font-size: 30px;
+}
+#pe{
+    color: white;
+}

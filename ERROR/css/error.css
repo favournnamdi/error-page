@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, pink,blue);
+}
+.im{
+    font-size: 100px;
+    color: white;
+    float: right;
+    margin-top: -100px;
+}
+.wa{
+    float: left;
+    margin-top: 80px;
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+}
